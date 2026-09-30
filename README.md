@@ -121,13 +121,7 @@ git clone https://github.com/YOUR-USERNAME/Customer-Churn-Prediction.git
 cd Customer-Churn-Prediction
 ```
 
-### 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the Notebook
+### 3. Run the Notebook
 
 Open:
 
